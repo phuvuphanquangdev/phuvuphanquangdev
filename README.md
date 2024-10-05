@@ -1,25 +1,23 @@
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 300px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" data-target="animated-image.originalLink" hidden=""><img align="right" alt="Coding" height="180" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden=""></a>
-      <span class="AnimatedImagePlayer enabled" data-target="animated-image.player">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" target="_blank" hidden=""></a>
-        
-
+![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)
+   
 <h1 align="center">Hi 👋, I'm Vũ Phan Quang Phú</h1>
 <h3 align="center">I'm a passionate Back-End Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuvuphanquangdev&label=Profile%20views&color=0e75b6&style=flat" alt="phuvuphanquangdev" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=phuvuphanquangdev&label=Profile%20views&color=0e75b6&style=flat" alt="phuvuphanquangdev" />
+</p>
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning everything 😂
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/phuvuphanquangdev?tab=repositories" target="_blank">GitHub page</a>
-
-- 💬 Ask me about **ASP.NET Core, C#, VB.NET**
+            
+- 💬 Ask me about **ASP.NET Core, C#, VB.NET**  
 
 - 📫 How to reach me **phu.vuphanquang@gmail.com**
 
 - ⚡ Fun fact **I like watching movies🎞️ and traveling✈️**
-<p align="left">
-  
-</p>
 
 <a href="mailto:phu.vuphanquang@gmail.com">
 <img src="https://camo.githubusercontent.com/8a15df73eefc8d613bab8230d8859b6328119607d14846dd1f1e0e9b526126b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
