@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f61b28c-0c82-4db8-936e-ff1e1c5678db)![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)
+
    
 <h1 align="center">Hi 👋, I'm Vũ Phan Quang Phú</h1>
 <h3 align="center">I'm a passionate Back-End Developer.</h3>
