@@ -33,8 +33,7 @@
       <span class="AnimatedImagePlayer enabled" data-target="animated-image.player">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" target="_blank" hidden=""></a>
         
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuvuphanquangdev&show_icons=true&locale=en&layout=compact&bg_color=1a1a2e&title_color=ff99cc&text_color=ffffff&icon_color=f7df1e&border_color=ffffff&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&hide=php" alt="phuvuphanquangdev"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuvuphanquangdev&show_icons=true&locale=en&bg_color=1a1a2e&title_color=ff99cc&text_color=ffffff&icon_color=f7df1e&border_color=ffffff&hide_border=true" alt="phuvuphanquangdev"/></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuvuphanquangdev&" alt="phuvuphanquangdev" /></p>
